@@ -1,0 +1,44 @@
+body{
+			background: #fff3e6;
+			margin-top: 10px;
+		}
+		h4{
+			margin-left: 75px;
+		}
+		#Ime{
+			margin-left: 5px;
+		}
+		#Razlog{
+			margin-left: 75px;
+		}
+		#DrugiDeo{
+			margin-left: 75px;
+		}
+		#text{
+			margin-left: 6px;
+		}
+		#Telefon {
+			text-align: center;
+		}
+		#Vreme{
+			text-align: center;
+			border-collapse: collapse;
+			width: 100%;
+		
+		}
+		#Kontakt{
+			text-align: center;
+			margin-left: 145px;
+		}
+		th, td {
+			text-align: left;
+			padding: 8px;
+		}
+
+		tr:nth-child(even){background-color: #f2f2f2}
+
+		th {
+			background-color: #ffdab3;
+			color: white;
+		}
+		
